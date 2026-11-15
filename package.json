@@ -26,15 +26,15 @@
     "ai-coding-agent"
   ],
   "license": "MIT",
-  "author": "Nabheet S. Sandhu",
+  "author": "Single Barrel Labs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nabheet/opencode-model-failover.git"
+    "url": "git+https://github.com/singlebarrellabs/opencode-model-failover.git"
   },
   "bugs": {
-    "url": "https://github.com/nabheet/opencode-model-failover/issues"
+    "url": "https://github.com/singlebarrellabs/opencode-model-failover/issues"
   },
-  "homepage": "https://github.com/nabheet/opencode-model-failover#readme",
+  "homepage": "https://github.com/singlebarrellabs/opencode-model-failover#readme",
   "engines": {
     "node": ">=22"
   },
